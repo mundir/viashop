@@ -1,0 +1,2 @@
+export  {warna} from './warna'
+
